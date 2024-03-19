@@ -1,2 +1,3 @@
-# workshop_misogyny
-Repository to tore the needed materials for the workshop : "Misogyny detection"
+# Misogyny detection workshop
+
+Repository to store the needed materials for the workshop : "Misogyny detection using sentiment analysis"
